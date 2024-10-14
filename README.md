@@ -34,10 +34,10 @@ Estoy expandiendo mis habilidades técnicas y de gestión a través de:
 ---
 
 ## 📫 Cómo contactarme
-- Email: [julidrz@hotmail.com.ar](mailto:julidrz@hotmail.com.ar)
-- LinkedIn: [linkedin.com/in/julia-daniela-rodriguez](https://www.linkedin.com/in/julia-daniela-rodriguez)
+- Email: [Contáctame](mailto:julidrz@hotmail.com.ar)
+- LinkedIn: [Mi linkedin](https://www.linkedin.com/in/julia-daniela-rodriguez)
 - GitHub: [github.com/JuliaDaniR](https://github.com/JuliaDaniR)
-- Portfolio: [
+- Portafolio: [Ve mi portfolio](https://juliadanir.github.io/portfolio/)
 
 ---
 
