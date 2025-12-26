@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Julia Daniela Rodríguez
+# 👋 ¡Hola! Soy Julia Daniela Rodriguez
 
 Soy una **desarrolladora de software apasionada y dinámica** con una sólida experiencia en **Java** y **Spring Boot**. 
 Me especializo en el desarrollo de aplicaciones web **back-end** y tengo conocimientos de **front-end**, 
