@@ -37,7 +37,7 @@ Estoy expandiendo mis habilidades técnicas y de gestión a través de:
 - Email: [Contáctame](mailto:julidrz@hotmail.com.ar)
 - LinkedIn: [Mi linkedin](https://www.linkedin.com/in/julia-daniela-rodriguez)
 - GitHub: [github.com/JuliaDaniR](https://github.com/JuliaDaniR)
-- Portafolio: [Ve mi portfolio](https://juliadanir.github.io/portfolio/)
+- Portafolio: [Ve mi portfolio](https://juliadanir.github.io/mi-portfolio/)
 
 ---
 
