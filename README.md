@@ -81,31 +81,35 @@ Participé en:
 
 ---
 
-## 🚗 Altiora Tech
+## 🐾 PettiWay
 
-Backend para plataforma de movilidad.
+Plataforma colaborativa para la gestión integral de mascotas, diseñada para conectar propietarios con distintos servicios relacionados con el bienestar animal.
 
-Tecnologías principales:
+### Tecnologías
 
 - Java
 - Spring Boot
+- Spring Security
 - JWT
-- Google Maps
-- Arquitectura Hexagonal
+- PostgreSQL
+- Google Maps API
+- WebSockets
 
 ---
 
-## 🏥 VollMed
+## 🏥 VollMed — Sistema de Gestión Clínica
 
-API para gestión clínica.
+Proyecto orientado al diseño de un sistema para la administración de clínicas médicas, implementando procesos propios del dominio sanitario mediante una arquitectura basada en Spring Boot.
 
-Características:
+### Aspectos destacados
 
-- JWT + Refresh Token
-- Agenda médica
-- Historia clínica
-- Auditoría
-- Reglas de negocio
+- Modelado de entidades y reglas de negocio.
+- Seguridad mediante Spring Security y JWT.
+- Gestión de agendas médicas.
+- Persistencia con PostgreSQL.
+- Migraciones controladas con Flyway.
+- Documentación OpenAPI.
+- Dockerización de la aplicación.
 
 ---
 
@@ -123,10 +127,19 @@ Tecnologías:
 
 ---
 
-## 📚 Literalura
+## 📚 Literalura — Biblioteca Digital con Inteligencia Artificial
 
-API REST para consulta y persistencia de libros utilizando la API Gutendex.
+Aplicación web full stack que evolucionó desde un challenge académico hasta una plataforma completa para búsqueda, gestión y recomendación de libros, incorporando procesamiento asíncrono, integración con APIs externas e Inteligencia Artificial.
 
+**Aspectos destacados**
+
+- Arquitectura basada en Spring Boot y PostgreSQL.
+- Integración con la API pública Gutendex.
+- Sistema de IA con estrategia de fallback entre OpenRouter y Google Gemini.
+- Procesamiento concurrente mediante Virtual Threads.
+- Caché, paginación y optimización de consultas.
+- Dockerización completa de la aplicación.
+- Despliegue público en Render.
 ---
 
 ## 💬 ForoHub
